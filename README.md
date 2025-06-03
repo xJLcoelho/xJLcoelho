@@ -37,8 +37,6 @@ Atualmente, estou me especializando em **Desenvolvimento Web**, com foco em **Ja
 
 - Desenvolvimento de sistemas para **gestão de estoque e vendas** com diferentes níveis de acesso.
 - Implementação de sistemas de **reserva de equipamentos** com HTML, Bootstrap e CSS.
-- Criação de **eBooks** como atividade de extensão universitária.
-- Participação em eventos como **Connect Day** sobre **descarte eletrônico**.
 
 ---
 
